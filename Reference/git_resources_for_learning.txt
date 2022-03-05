@@ -1,0 +1,10 @@
+
+TAU:
+https://github.com/rafaelaazevedo/tau-pact-nodejs-course.git
+
+https://github.com/pact-foundation/pact-js
+
+https://github.com/OpenLiberty/guide-contract-testing
+
+
+https://www.softwaretestinghelp.com/contract-testing/
